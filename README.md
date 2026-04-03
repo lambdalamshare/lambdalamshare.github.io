@@ -10,7 +10,6 @@
 [![Generic badge](https://img.shields.io/badge/Web_App-Launch-blue.svg)](https://lambdalamshare.github.io/)
 
 
-
 **공연밖에 모르는 베푸리도 리몰딩 패턴을 쉽게 관리할 수 있도록 도와주는 웹 기반 에디터입니다.**
 
 [👉 웹 페이지 바로가기](https://lambdalamshare.github.io/)
